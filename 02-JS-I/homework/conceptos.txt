@@ -1,0 +1,20 @@
+Homework: Introducción a Javascript
+Instrucciones
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Es como una cajita donde se guardan cosas. Es un lugar del espacio.
+
+Strings
+Es una cadena de caracteres, que pueden ser letras, números o símbolos. Siempre va delimitado por comillas.
+
+Funciones (argumentos, return)
+Devuelven un valor, sino sería un proceso.
+El argumento es lo que recibe la función como dato adicional.
+Return es el valor que devuelve la función en pantalla.
+
+Declaraciones if
+Son condicionales, que de ser verdadero ejecuta algo, y en caso contrario, devuelve otro proceso.
+
+Valores booleanos (true, false)
+Son los que devuelven true or false.
